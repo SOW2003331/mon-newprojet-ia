@@ -1,3 +1,13 @@
+## Résumé  
+**Nom du projet** : Recommandation de films basée sur les genres  
+**Objectif** : Ce système recommande 5 films similaires à un film donné en analysant les genres, utilisant des techniques de traitement de langage (TF-IDF) et de similarité cosinus.  
+**Public cible** : Cinéphiles et plateformes de streaming.  
+**Données utilisées** : Dataset MovieLens (intégré dans le code).  
+
+---
+
+# MovieLens Lite - Recommandation de films  
+[... le reste de votre README existant ...]  
 # Système de Recommandation de Films
 
 Un projet AI simple qui recommande des films similaires basé sur les genres.
