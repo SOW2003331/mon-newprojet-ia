@@ -1,24 +1,21 @@
-## Résumé  
-**movie-recommender-ai** : Prototype d'IA pour recommandations de films basé sur les genres. Utilise Python, Pandas et scikit-learn. Code clair pour débutants en ML. 
-**Objectif** : Ce système recommande 5 films similaires à un film donné en analysant les genres, utilisant des techniques de traitement de langage (TF-IDF) et de similarité cosinus.  
-**Public cible** : Cinéphiles et plateformes de streaming.  
-**Données utilisées** : Dataset MovieLens (intégré dans le code).  
+## Résumé
 
----
+**Nom du projet** : movie-recommender-ai
+**Objectif** : Un système de recommandation de films utilisant l'analyse des genres et la similarité cosinus
+**Public cible** : Étudiants en IA et développeurs débutants
+**Données utilisées** : Mini-dataset MovieLens intégré (5 films)
 
-# MovieLens Lite - Recommandation de films  
-[... le reste de votre README existant ...]  
-# Système de Recommandation de Films
+# Movie Recommender AI
 
-Un projet AI simple qui recommande des films similaires basé sur les genres.
+Un projet Python qui recommande des films similaires basé sur leurs genres.
 
-## Comment utiliser
-1. Installez les dépendances: `pip install -r requirements.txt`
-2. Exécutez: `python movie_recommender.py`
-3. Entrez un nom de film quand demandé
+## Fonctionnalités
+- Recommandation de 5 films similaires
+- Interface en ligne de commande simple
+- Algorithmes : TF-IDF + Similarité Cosinus
 
-## Données
-Les données viennent de [MovieLens](https://grouplens.org/datasets/movielens/).
-
-## Auteur
-Amadou SOW
+## Comment l'utiliser
+1. Installer les dépendances:
+```bash
+pip install -r requirements.txt
+python movie_recommender.py
