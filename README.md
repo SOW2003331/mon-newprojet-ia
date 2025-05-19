@@ -1,5 +1,5 @@
 ## Résumé  
-**Nom du projet** : Recommandation de films basée sur les genres  
+**movie-recommender-ai** : Prototype d'IA pour recommandations de films basé sur les genres. Utilise Python, Pandas et scikit-learn. Code clair pour débutants en ML. 
 **Objectif** : Ce système recommande 5 films similaires à un film donné en analysant les genres, utilisant des techniques de traitement de langage (TF-IDF) et de similarité cosinus.  
 **Public cible** : Cinéphiles et plateformes de streaming.  
 **Données utilisées** : Dataset MovieLens (intégré dans le code).  
